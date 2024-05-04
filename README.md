@@ -3,7 +3,7 @@
 git clone <repository-url>
 
 # install dependencies
-cd BooK MANAGEMENT
+cd BOOK MANAGEMENT
 npm install
 
 # configure environment variable
